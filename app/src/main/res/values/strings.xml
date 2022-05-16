@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Velocity Pro</string>
+    <string name="key">AIzaSyCaV0r2vzNdrTLkLdg8Ui_SN7ZGvastS2w</string>
+    <string name="no_connection">No internet connection! Cannot be translated!</string>
+    <string-array name="languages_array">
+        <item>te</item>
+        <item>hi</item>
+        <item>en</item>
+        <item>ta</item>
+    </string-array>
+    <string name="title_BMW">BMW</string>
+    <string name="title_Ferrari">Ferrari</string>
+    <string name="title_Hyundai">Hyundai</string>
+    <string name="title_Mahindra">Mahindra</string>
+    <string name="about_BMW">
+  Bayerische Motoren Werke AG, commonly referred to as BMW (German pronunciation: [ˌbeːʔɛmˈveː] (listen)),is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany.The corporation was founded in 1916 as a manufacturer of aircraft engines, which it produced from 1917 until 1918 and again from 1933 to 1945.
+    </string>
+    <string name="about_Ferrari">
+  Bayerische Motoren Werke AG, commonly referred to as BMW (German pronunciation: [ˌbeːʔɛmˈveː] (listen)),is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany.The corporation was founded in 1916 as a manufacturer of aircraft engines, which it produced from 1917 until 1918 and again from 1933 to 1945.
+    </string>
+    <string name="about_Hyundai">
+  Bayerische Motoren Werke AG, commonly referred to as BMW (German pronunciation: [ˌbeːʔɛmˈveː] (listen)),is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany.The corporation was founded in 1916 as a manufacturer of aircraft engines, which it produced from 1917 until 1918 and again from 1933 to 1945.
+    </string>
+    <string name="about_Mahindra">
+  Bayerische Motoren Werke AG, commonly referred to as BMW (German pronunciation: [ˌbeːʔɛmˈveː] (listen)),is a German multinational corporate manufacturer of luxury vehicles and motorcycles headquartered in Munich, Bavaria, Germany.The corporation was founded in 1916 as a manufacturer of aircraft engines, which it produced from 1917 until 1918 and again from 1933 to 1945.
+    </string>
+    <string name="about_car">About</string>
+</resources>
